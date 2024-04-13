@@ -1,4 +1,4 @@
-Here's a list of some common Git commands and their uses:
+#Here's a list of some common Git commands and their uses:
 
 git init: Initializes a new Git repository in the current directory.
 
